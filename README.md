@@ -1,1 +1,2 @@
+Two software applications capable of addressing challenges arising from comb filtering were developed.  An application was developed using the MATLAB Apps platform and a plugin was also developed in C++ as a real-time VST. Both use cross correlation to detect delays between signal paths. Signals can then be realigned using the detected sample delay. ![image](https://user-images.githubusercontent.com/35799468/211156732-5b81e2ca-fc1f-4609-be42-a4f6c7a6a76d.png)
 
